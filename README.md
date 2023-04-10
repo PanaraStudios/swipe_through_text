@@ -24,7 +24,7 @@ SwipeThroughText is a customizable Flutter widget that allows users to swipe thr
 Add the following line to your `pubspec.yaml` file:
 
     dependencies:
-      swipe_through_text: ^0.0.3 
+      swipe_through_text: ^0.0.4 
 
 Then, run `flutter pub get` in your terminal.
 

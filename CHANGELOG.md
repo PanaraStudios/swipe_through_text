@@ -1,4 +1,4 @@
-## 0.0.3
+## 0.0.4
 
 * Initial release of the SwipeThroughText Flutter package.
 * Provides the SwipeThroughText widget for swiping through a text and strikethrough it when a certain swipe threshold is met.
