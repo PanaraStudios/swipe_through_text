@@ -1,6 +1,6 @@
 name: swipe_through_text
 description: Flutter widget that allows users to swipe through a text.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/PanaraStudios/swipe_through_text
 
 environment:
