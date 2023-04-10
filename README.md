@@ -8,7 +8,7 @@ SwipeThroughText is a customizable Flutter widget that allows users to swipe thr
 
 ## Preview
 
-![preview](https://raw.githubusercontent.com/PanaraStudios/panaradialogs/master/preview/preview.gif)
+<img src="https://raw.githubusercontent.com/PanaraStudios/swipe_through_text/master/preview/preview.gif" height="400"/>
 
 ## Limitations
 
